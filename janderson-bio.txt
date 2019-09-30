@@ -7,3 +7,5 @@ Experienced software instructor with deep knowledge of the following software pr
 	* Microsoft C#.Net
 	* Java
 	* Git & Github.
+	* MySql
+	
